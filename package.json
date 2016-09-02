@@ -1,0 +1,22 @@
+{
+  "name": "barcode-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frknbasaran/barcode-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frknbasaran/barcode-server/issues"
+  },
+  "homepage": "https://github.com/frknbasaran/barcode-server#readme",
+  "dependencies": {
+    "bwip-js": "^1.1.0"
+  }
+}
